@@ -3,7 +3,7 @@
   "meta": {
     "version": "1.0.0",
     "name": "말왕 치즐 건축 콘테스트",
-    "description": "Minecraft 1.21.4 (Fabric v0.18.4)",
+    "description": "Minecraft 1.21.1 (Fabric v0.18.4)",
     "icon": "https://github.com/mchdistro/horseking/raw/main/server-icon.png",
     "address": "122.38.40.140",
     "discord": {
@@ -35,7 +35,7 @@
   "untrackedFiles": [
     {
       "appliesTo": ["files"],
-      "patterns": ["options.txt", "config/iris.properties", "shaderpacks/**.txt"]
+      "patterns": ["options.txt"]
     }
   ]
 }

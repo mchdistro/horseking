@@ -8,13 +8,13 @@
   },
   "servers": [
     {
-      "id": "Chisel-1.21.4",
+      "id": "Chisel-1.21.1",
       "name": "말왕 치즐 건축 콘테스트",
-      "description": "Minecraft 1.21.4 (Fabric v0.18.4)",
+      "description": "Minecraft 1.21.1 (Fabric v0.18.4)",
       "icon": "https://github.com/mchdistro/horseking/raw/main/server-icon.png",
       "version": "1.0.0",
       "address": "122.38.40.140",
-      "minecraftVersion": "1.21.4",
+      "minecraftVersion": "1.21.1",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
         "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -49,13 +49,13 @@
           },
           "subModules": [
             {
-              "id": "1.21.4-fabric-0.18.4",
+              "id": "1.21.1-fabric-0.18.4",
               "name": "Fabric (version.json)",
               "type": "VersionManifest",
               "artifact": {
                 "size": 2847,
-                "MD5": "0570f9bf422c12cc7ce1547a6844f783",
-                "url": "https://github.com/mchdistro/horseking/raw/main/repo/versions/1.21.4-fabric-0.18.4/1.21.4-fabric-0.18.4.json"
+                "MD5": "556dc8209ab9b052a9948ccdacdcc17f",
+                "url": "https://github.com/mchdistro/horseking/raw/main/repo/versions/1.21.1-fabric-0.18.4/1.21.1-fabric-0.18.4.json"
               }
             },
             {
@@ -119,13 +119,13 @@
               }
             },
             {
-              "id": "net.fabricmc:intermediary:1.21.4",
+              "id": "net.fabricmc:intermediary:1.21.1",
               "name": "Fabric (intermediary)",
               "type": "Library",
               "artifact": {
-                "size": 701826,
-                "MD5": "d0f4187a62328d4a95f3428434efbd48",
-                "url": "https://github.com/mchdistro/horseking/raw/main/repo/lib/net/fabricmc/intermediary/1.21.4/intermediary-1.21.4.jar"
+                "size": 657725,
+                "MD5": "850be48a3406b9efdf8e64b1c2db97f8",
+                "url": "https://github.com/mchdistro/horseking/raw/main/repo/lib/net/fabricmc/intermediary/1.21.1/intermediary-1.21.1.jar"
               }
             }
           ]
@@ -136,7 +136,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 11165,
-            "url": "https://github.com/mchdistro/horseking/raw/main/servers/Chisel-1.21.4/fabricmods/required/blurserveraddress-fabric-1.2.0+mc1.21.1.jar",
+            "url": "https://github.com/mchdistro/horseking/raw/main/servers/Chisel-1.21.1/fabricmods/required/blurserveraddress-fabric-1.2.0+mc1.21.1.jar",
             "MD5": "31dfd9ed8f516f519c0e05b6265aaf3c"
           }
         },
@@ -146,7 +146,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 2788171,
-            "url": "https://github.com/mchdistro/horseking/raw/main/servers/Chisel-1.21.4/fabricmods/required/chisels-and-bits-fabric-21.1.33.jar",
+            "url": "https://github.com/mchdistro/horseking/raw/main/servers/Chisel-1.21.1/fabricmods/required/chisels-and-bits-fabric-21.1.33.jar",
             "MD5": "cb16b2acb4b1a47dbc028d85a0618d4e"
           }
         },
@@ -156,7 +156,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 2425441,
-            "url": "https://github.com/mchdistro/horseking/raw/main/servers/Chisel-1.21.4/fabricmods/required/fabric-api-0.116.8+1.21.1.jar",
+            "url": "https://github.com/mchdistro/horseking/raw/main/servers/Chisel-1.21.1/fabricmods/required/fabric-api-0.116.8+1.21.1.jar",
             "MD5": "54d845f0ec97490a5e1b0dc4201d7c01"
           }
         },
@@ -166,7 +166,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 2690177,
-            "url": "https://github.com/mchdistro/horseking/raw/main/servers/Chisel-1.21.4/fabricmods/required/iris-fabric-1.8.8+mc1.21.1.jar",
+            "url": "https://github.com/mchdistro/horseking/raw/main/servers/Chisel-1.21.1/fabricmods/required/iris-fabric-1.8.8+mc1.21.1.jar",
             "MD5": "1179fe09b9ba970e84ed59259adfe65a"
           }
         },
@@ -176,7 +176,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 562924,
-            "url": "https://github.com/mchdistro/horseking/raw/main/servers/Chisel-1.21.4/fabricmods/required/KoreanChat-1.5.jar",
+            "url": "https://github.com/mchdistro/horseking/raw/main/servers/Chisel-1.21.1/fabricmods/required/KoreanChat-1.5.jar",
             "MD5": "50afa2d193e7f940d7e80e4a63a9a3b9"
           }
         },
@@ -186,7 +186,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1297761,
-            "url": "https://github.com/mchdistro/horseking/raw/main/servers/Chisel-1.21.4/fabricmods/required/sodium-fabric-0.6.13+mc1.21.1.jar",
+            "url": "https://github.com/mchdistro/horseking/raw/main/servers/Chisel-1.21.1/fabricmods/required/sodium-fabric-0.6.13+mc1.21.1.jar",
             "MD5": "aa37ba0048a1af6b554b137088cad484"
           }
         },
@@ -196,7 +196,8 @@
           "type": "File",
           "artifact": {
             "size": 312,
-            "url": "https://github.com/mchdistro/horseking/raw/main/servers/Chisel-1.21.4/files/config/iris.properties",
+            "url": "https://github.com/mchdistro/horseking/raw/main/servers/Chisel-1.21.1/files/config/iris.properties",
+            "MD5": "2fb287c07c7c9a64553e5057a9b3d9f6",
             "path": "config/iris.properties"
           }
         },
@@ -206,7 +207,7 @@
           "type": "File",
           "artifact": {
             "size": 5306,
-            "url": "https://github.com/mchdistro/horseking/raw/main/servers/Chisel-1.21.4/files/options.txt",
+            "url": "https://github.com/mchdistro/horseking/raw/main/servers/Chisel-1.21.1/files/options.txt",
             "path": "options.txt"
           }
         },
@@ -216,7 +217,7 @@
           "type": "File",
           "artifact": {
             "size": 187,
-            "url": "https://github.com/mchdistro/horseking/raw/main/servers/Chisel-1.21.4/files/servers.dat",
+            "url": "https://github.com/mchdistro/horseking/raw/main/servers/Chisel-1.21.1/files/servers.dat",
             "MD5": "568a30bb6bc2b2c399e7aaf018407963",
             "path": "servers.dat"
           }
@@ -227,7 +228,7 @@
           "type": "File",
           "artifact": {
             "size": 456332,
-            "url": "https://github.com/mchdistro/horseking/raw/main/servers/Chisel-1.21.4/files/shaderpacks/ComplementaryUnbound_r5.5.1.zip",
+            "url": "https://github.com/mchdistro/horseking/raw/main/servers/Chisel-1.21.1/files/shaderpacks/ComplementaryUnbound_r5.5.1.zip",
             "MD5": "576ef06da170458879f3a03e685d487a",
             "path": "shaderpacks/ComplementaryUnbound_r5.5.1.zip"
           }
@@ -238,7 +239,8 @@
           "type": "File",
           "artifact": {
             "size": 219,
-            "url": "https://github.com/mchdistro/horseking/raw/main/servers/Chisel-1.21.4/files/shaderpacks/ComplementaryUnbound_r5.5.1.zip.txt",
+            "url": "https://github.com/mchdistro/horseking/raw/main/servers/Chisel-1.21.1/files/shaderpacks/ComplementaryUnbound_r5.5.1.zip.txt",
+            "MD5": "5e3a17c5f2f6d39488c0f0006456440b",
             "path": "shaderpacks/ComplementaryUnbound_r5.5.1.zip.txt"
           }
         }
