@@ -311,13 +311,43 @@
           }
         },
         {
+          "id": "options.txt",
+          "name": "options.txt",
+          "type": "File",
+          "artifact": {
+            "size": 3909,
+            "url": "https://github.com/mchdistro/horseking/raw/main/servers/chisel-1.12.2/files/options.txt",
+            "path": "options.txt"
+          }
+        },
+        {
+          "id": "optionsof.txt",
+          "name": "optionsof.txt",
+          "type": "File",
+          "artifact": {
+            "size": 1434,
+            "url": "https://github.com/mchdistro/horseking/raw/main/servers/chisel-1.12.2/files/optionsof.txt",
+            "path": "optionsof.txt"
+          }
+        },
+        {
+          "id": "optionsshaders.txt",
+          "name": "optionsshaders.txt",
+          "type": "File",
+          "artifact": {
+            "size": 395,
+            "url": "https://github.com/mchdistro/horseking/raw/main/servers/chisel-1.12.2/files/optionsshaders.txt",
+            "path": "optionsshaders.txt"
+          }
+        },
+        {
           "id": "servers.dat",
           "name": "servers.dat",
           "type": "File",
           "artifact": {
-            "size": 187,
+            "size": 89,
             "url": "https://github.com/mchdistro/horseking/raw/main/servers/chisel-1.12.2/files/servers.dat",
-            "MD5": "568a30bb6bc2b2c399e7aaf018407963",
+            "MD5": "a610566b7e390c32ba9953392dcb4b5c",
             "path": "servers.dat"
           }
         },
